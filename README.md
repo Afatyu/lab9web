@@ -13,7 +13,6 @@ Implementasikan konsep modularisasi pada kode program <b>praktikum 8</b> tentang
 
 ## Langkah 1
 Kita buat folder baru untuk tugas di directory web server dengan nama `Lab9_tugas`.
-![Screenshot (58)](https://user-images.githubusercontent.com/72727701/170149420-c232291b-ac13-4ef8-a09f-a4e9fddc81c0.png)
 
 ## Langkah 2
 Membuat file `koneksi.php` untuk menyambungkan ke server database.
